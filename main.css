@@ -1,0 +1,15 @@
+body {background-color: azure;
+        font-family: sans-serif,Courier New, Cambria;}
+
+header {background-color:aliceblue;}
+
+h1{color: dimgray;}
+nav > ul {line-height:1.5em;
+          list-style:circle;
+          padding-left: 3px;}
+
+section {background-color:burlywood;
+         width:80%;
+         font-size:1.8em;}
+
+footer {background-color: darkkhaki}
